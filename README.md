@@ -1,4 +1,4 @@
-# QENTS：テキスト平易化の品質推定のためのデータセット [[English]](英語版READMEのURL)
+# QENTS：テキスト平易化の品質推定のためのデータセット [[English]](https://github.com/yu-hiro/qents/blob/main/README.en.md)
 
 英語のテキスト平易化の品質推定のために、以下の特徴を持つデータセットを構築しました。
 

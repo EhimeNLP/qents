@@ -12,10 +12,10 @@
 
 ||モデル|文法性|同義性|平易性|総合評価|
 | :--- | :---: | :---: | :---: | :---: | :---: |
-|henson was born in Maryland and lived to be 93 years old .|Reference|4|3|3|4|
-|henson , who lived to age , for instance , was born in Maryland .|[PBMT-R](https://aclanthology.org/P12-1107)|1|1|1|1|
+|henson was born in maryland and lived to be 93 years old .|Reference|4|3|3|4|
+|henson , who lived to age , for instance , was born in maryland .|[PBMT-R](https://aclanthology.org/P12-1107)|1|1|1|1|
 |henson lived was born .|[Hybrid](https://aclanthology.org/P14-1041)|1|1|1|1|
-|henson was born in southern Maryland .|[EncDecA](https://aclanthology.org/D15-1166)|4|3|4|3|
+|henson was born in southern maryland .|[EncDecA](https://aclanthology.org/D15-1166)|4|3|4|3|
 |henson lived to age 93 .|[DRESS](https://aclanthology.org/D17-1062)|4|3|4|3|
 |henson lived in maryland .|[S2S-All-FA](https://aclanthology.org/N19-1317)|4|1|4|1|
 |henson was born in southern maryland .|[EditNTS](https://aclanthology.org/P19-1331)|4|3|4|3|

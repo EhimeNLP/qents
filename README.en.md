@@ -27,4 +27,5 @@ Source：Henson , who lived to age 93 , was born in southern Maryland .
 
 ## References
 
-- 廣中勇希, 井川朋樹, 梶原智之, 二宮崇. **QENTS：テキスト平易化の品質推定のためのデータセット.** 言語処理学会第28回年次大会, 2022.
+- 廣中勇希, 井川朋樹, 梶原智之, 二宮崇. **QENTS：テキスト平易化の品質推定のためのデータセット.** 言語処理学会第28回年次大会, 2022. <br> [[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G3-3.pdf)
+
